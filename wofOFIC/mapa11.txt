@@ -1,0 +1,59 @@
+Miestnost terasa Hlavnı vstup na fakultu
+Vychody:
+    Dvere => vratnica
+Predmety:
+    ISIC
+    Acko
+
+Miestnost vratnica Tu bıva pani vrátnièka
+Vychody:
+    Dvere => terasa
+    Dvere => a
+    Dvere => b
+    Dvere => ic
+
+Miestnost ic ÍCéèko - informaèné centrum
+Vychody:
+    Dvere => vratnica
+
+Miestnost a Chodba v budove A
+Vychody:
+    Dvere => vratnica
+    Dvere => wca
+    Dvere => bufet
+    Dvere => a7
+    LaboratorneDvere => a12
+Predmety:
+    Navleky
+
+Miestnost b Chodba v budove B
+Vychody:
+    Dvere => vratnica
+    Dvere => wcb
+    ISICoveDvere => b3
+
+Miestnost wca Nerád sem idem, ale keï musíš tak musíš
+Vychody:
+    Dvere => a
+
+Miestnost wcb Nerád sem idem, ale keï musíš tak musíš
+Vychody:
+    Dvere => b
+
+Miestnost a7 Uèebòa
+Vychody:
+    Dvere => a
+
+Miestnost a12 Poèítaèové laboratórium
+Vychody:
+    Dvere => a
+
+Miestnost bufet Èo máme dnes na obed?
+Vychody:
+    Dvere => a
+
+Miestnost b3 Poèítaèové laboratórium
+Vychody:
+    Dvere => a
+
+Start terasa
